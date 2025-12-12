@@ -22,3 +22,7 @@ választható menüpontok
 -Vásárlók általi visszajelzések
 
 
+
+
+### trello
+https://trello.com/b/kiE8rTyL/eppla-projektmunka
