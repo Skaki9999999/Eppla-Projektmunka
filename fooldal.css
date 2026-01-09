@@ -1,0 +1,13 @@
+body{
+background-image: linear-gradient(to bottom, white, black);
+}
+
+.logo{
+    height: 40px;
+    width: 72px;
+    transition: transform .55s ease-out;
+}
+
+.logo:hover {
+  transform: scale(1.5) rotate(180deg);
+}
